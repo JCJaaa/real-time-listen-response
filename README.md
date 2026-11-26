@@ -21,7 +21,7 @@
 
 ---
 
-## macOS 组员快速安装（macOS 13+ 免装虚拟声卡）
+## macOS 快速安装（macOS 13+ 免装虚拟声卡）
 
 macOS 版使用原生 **ScreenCaptureKit**（`mac/AudioTap.swift`）直接捕获 **Microsoft Teams** 音频，无需安装 BlackHole 等第三方驱动：
 
